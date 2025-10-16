@@ -8,7 +8,7 @@ cd shiny-parakeet
 ```
 Install all required packages:
 ```
-pip install requirements
+pip install requirements.txt
 ```
 Run `run.py`:
 ```
